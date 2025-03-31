@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: "https://author-p128352-e1258333.adobeaemcloud.com/bin/franklin.delivery/adobedevxsc/frescopa/main"
+    type: "markup"
+    suffix: ".html"
+folders:
+  /products/: /products/default
